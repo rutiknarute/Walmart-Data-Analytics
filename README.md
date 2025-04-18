@@ -50,5 +50,17 @@ FROM walmart
 GROUP BY category
 ORDER BY Total_Units_Sold DESC;
 
+---
+
+## 📦 Requirements
+
+To run this project, make sure you have the following installed:
+
+```bash
+# System Requirements
+Python 3.7+
+Jupyter Notebook
+VS Code (optional for editing)
+MySQL Server (e.g., MySQL 8.0)
 
      
