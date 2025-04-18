@@ -43,10 +43,10 @@
 ---
 # System Requirements
 
-Python 3.7+
-Jupyter Notebook
-VS Code (optional for editing)
-MySQL Server (e.g., MySQL 8.0)
+  - Python 3.7+
+  - Jupyter Notebook
+  - VS Code (optional for editing)
+  - MySQL Server (e.g., MySQL 8.0)
 
 ---
 
