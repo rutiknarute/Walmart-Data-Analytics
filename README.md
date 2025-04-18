@@ -1,7 +1,5 @@
 # Walmart-Data-Analytics
 
----
-
 ## ⚙️ Tools & Technologies Used
 
 - **Python 3.x**
