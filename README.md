@@ -39,20 +39,15 @@
 
 8. **Top-Selling Categories**  
    Which product categories perform the best in terms of sales quantity?
-
-
+   
 ---
-
-## 📦 Requirements
-
-To run this project, make sure you have the following installed:
-
-```bash
 # System Requirements
+
 Python 3.7+
 Jupyter Notebook
 VS Code (optional for editing)
 MySQL Server (e.g., MySQL 8.0)
+
 ---
 
 ## 💻 Sample SQL Query
