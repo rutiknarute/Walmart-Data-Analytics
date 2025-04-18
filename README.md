@@ -40,15 +40,6 @@
 8. **Top-Selling Categories**  
    Which product categories perform the best in terms of sales quantity?
 
----
-
-## 💻 Sample SQL Query
-
-```sql
-SELECT category, SUM(quantity) AS Total_Units_Sold
-FROM walmart
-GROUP BY category
-ORDER BY Total_Units_Sold DESC;
 
 ---
 
@@ -62,5 +53,16 @@ Python 3.7+
 Jupyter Notebook
 VS Code (optional for editing)
 MySQL Server (e.g., MySQL 8.0)
+---
+
+## 💻 Sample SQL Query
+
+```sql
+SELECT category, SUM(quantity) AS Total_Units_Sold
+FROM walmart
+GROUP BY category
+ORDER BY Total_Units_Sold DESC;
+
+
 
      
