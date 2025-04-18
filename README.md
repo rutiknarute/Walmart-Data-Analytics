@@ -6,9 +6,11 @@
   - Jupyter Notebook
   - pandas
   - mysql-connector-python
+  - sqlalchemy
+  - pymysql / psycopg2 (if using different DB engines)
 - **MySQL**
-- **SQL** (Aggregate functions, Window functions, Date/Time functions)
-- **Matplotlib / Seaborn** (optional for visualization)
+- **SQL** (Aggregate functions, Window functions, Date/Time functions, Nested Queries)
+- **Matplotlib / Seaborn** (for optional visualizations)
 
 ---
 
@@ -48,21 +50,5 @@ FROM walmart
 GROUP BY category
 ORDER BY Total_Units_Sold DESC;
 
----
-## 📦 Requirements
 
-To run this project, make sure you have the following installed:
-
-```bash
-Python 3.7+
-Jupyter Notebook
-VS Code
-MySQL Server (e.g., MySQL 8.0)
-pandas
-pandas
-sqlalchemy
-psycopg2
-pymysql 
-mysql-connector-python
-matplotlib   
-seaborn     
+     
